@@ -10,6 +10,6 @@
 ## 🚫 提示
 所有上传的文件都可能会**不定期清理**，请及时下载喵  
 
-![image](ReadmeImageFIle/taffy.gif)
+![image](./ReadmeImageFIle/taffy.gif)
 
 记得关注我哦~ [@德州DJ狂魔](https://space.bilibili.com/348613569)
